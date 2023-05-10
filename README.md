@@ -2,7 +2,7 @@
 This is a web based application developed for Dental based website in india
 
 This web based Dental health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
-Project Link - https://zealous-flower-0ee4e6400.3.azurestaticapps.net project demo video link - 
+Project Link - https://zealous-flower-0ee4e6400.3.azurestaticapps.net project demo video link - https://www.youtube.com/watch?v=Fs6dvYA4L2Q
 
 Azure technologies used for Project
 Static web apps
