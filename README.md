@@ -1,20 +1,36 @@
 ✨ Dentition ✨
+
 This is a web based application developed for Dental based website in india
 
 This web based Dental health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
-Project Link - https://zealous-flower-0ee4e6400.3.azurestaticapps.net project demo video link - https://www.youtube.com/watch?v=Fs6dvYA4L2Q
+
+Project Link - https://zealous-flower-0ee4e6400.3.azurestaticapps.net 
+
+project demo video link - https://www.youtube.com/watch?v=Fs6dvYA4L2Q
 
 Azure technologies used for Project:
+
 Static web apps
+
 Health bot
-Features and Functionalities 😃
+
+⭐ Features and Functionalities 😃
+
 Interactive and responsive UI.
+
 Has many graphical and visual innovative effects.
+
 Have an aesthetically pleasing visual design and architecture.
+
 Has collection of many web pages including Home, About Us, Contact, services, health topics and dental health related information etc.
+
 User can know about dental health information through this website.
+
 Included the feedback Survey form to increase the scope of improvement
-Screenshots
+
+
+*Screenshots
+
 Home -
 
 ![Screenshot 2023-05-10 222735](https://github.com/KishoreKanthS/FRT/assets/130402415/e85cd339-c69d-4022-ac73-9bd17119c88e)
@@ -36,6 +52,7 @@ health bot
 ![healthbot](https://github.com/KishoreKanthS/FRT/assets/130402415/fcaa11c2-1891-4734-ac26-08dbe93e69c0)
 
 Tech Stack 💻
+
 Azure(Hosting)
 HTML
 CSS
